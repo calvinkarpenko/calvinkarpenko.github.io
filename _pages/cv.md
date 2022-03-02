@@ -16,14 +16,9 @@ Education
 
 Skills
 ======
-* Python
-* Web Development
-  * HTML5
-  * Cascading Style Sheets
-  * Javascript
-  * PHP
-* Databases
-  * MySQL
+* Python: Machine learning, statistical computing
+* Web Development: HTML5, CSS, Javascript and PHP
+* Databases: MySQL
 
 Publications
 ======
