@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * BSc. in Physics, The University of Sheffield, 2020
-* MSc in Data Analytics, The University of Sheffield, 2021
+* MSc. in Data Analytics, The University of Sheffield, 2021
 
 Skills
 ======
