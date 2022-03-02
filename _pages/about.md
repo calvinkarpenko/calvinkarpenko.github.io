@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 Hi there! 
-I achieved my BSc in Physics at [The University of Sheffield](https://www.sheffield.ac.uk) and my MSc in Data Analytics, also at The University of Sheffield. 
+I achieved my BSc. in Physics and my MSc. in Data Analytics at [The University of Sheffield](https://www.sheffield.ac.uk)
