@@ -9,20 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+##Education##
+
 - **BSc. in Physics**, *The University of Sheffield, 2020*
 - **MSc. in Data Analytics**, *The University of Sheffield, 2021*
 	- Dissertation Title: *Can sentiment analysis of Twitter be used to predict the results of the 2020 US Presidential Election*
 
-Skills
-======
+##Skills##
 - Python: *Natural Language Processing, Machine learning, statistical computing*
 - Web Development: *HTML5, CSS, Javascript and PHP*
 - Databases: *MySQL*
 
-Publications
-======
+##Publications##
 <ul>{% for post in site.publications %}
 {% include archive-single-cv.html %}
 {% endfor %}</ul>
