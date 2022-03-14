@@ -14,5 +14,5 @@ I obtained both my BSc. in Physics and my MSc. in Data Analytics at [The Univers
 
 My research interests are in Natural Language Processing (NLP), Machine Learning and Data Science. More specifically, I am interested in finding insights from social media analysis and was able to do this when working on my MSc Dissertation project, where I performed sentiment analysis on tweets about the 2020 US Presidential Election and aimed to predict the outcome. 
 
-I still maintain an interest in Physics and enjoy reading about new findings in fields such as particle physics, gravitational waves, renewable technologies. In addition to this I am interested in novel approaches to outreach, specifically in physics and programming.
+I still maintain an interest in physics and I enjoy reading about new findings in fields such as particle physics, gravitational waves and renewable technologies. In addition to this I am interested in novel approaches to outreach, specifically in science and programming.
 
