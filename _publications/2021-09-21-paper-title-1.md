@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Can sentiment analysis of Twitter be used to predict the results of the 2020 US Presidential Election?"
 collection: publications
 permalink: /publication/2021-09-21-paper-title-1
 excerpt: ''
