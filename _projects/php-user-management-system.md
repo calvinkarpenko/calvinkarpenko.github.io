@@ -5,8 +5,6 @@ excerpt: "A project to write a user management system in PHP using best practice
 collection: project
 ---
 
-# User Management System in PHP
-
 ## Aims and Motivation
 
 The aim is to create a user management system implementing registration, authentication, permissions and more in a secure way in PHP, without using frameworks.
@@ -18,5 +16,7 @@ My general musings and thoughts about related things will be posted in the blog 
 
 ## Current Progress
 
-Database class has been completed and uses PDO paramterised queries
-Session Handler has been written to implement storing sessions in the database rather than the file system. In addition a session manager has been implemented to get and set values to the current session. Further work has been done to ensure that the security of sessions as outlined in OWASP's guidance has been followed.
+- Database class has been completed and uses PDO paramterised queries
+- Session Handler has been written to implement storing sessions in the database rather than the file system. 
+- In addition a session manager has been implemented to get and set values to the current session. 
+- Further work has been done to ensure that the security of sessions as outlined in OWASP's guidance has been followed.
