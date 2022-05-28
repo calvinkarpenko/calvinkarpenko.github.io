@@ -15,10 +15,12 @@ redirect_from:
 - **MSc. in Data Analytics**, *The University of Sheffield, 2021*
 	- Dissertation Title: *Can sentiment analysis of Twitter be used to predict the results of the 2020 US Presidential Election*
 
-## Skills
-- Python: *Natural Language Processing, Machine learning, statistical computing*
-- Web Development: *HTML5, CSS, Javascript and PHP*
-- Databases: *MySQL*
+## Technical Skills
+- **Data Science:** *Natural Language Processing, Machine Learning, Social Media analysis*
+- **Data Visualisation:** *Matplotlib, Seaborn, Tableau*
+- **Python:** *Numpy, Scipy, Pandas, Scikit-learn, Spark, NLTK, Jupyter Notebooks, Tweepy*
+- **Web Development:** *HTML5, CSS, Javascript, PHP*
+- **Databases:** *MySQL*
 
 ## Publications
 <ul>{% for post in site.publications %}
