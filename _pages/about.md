@@ -16,5 +16,5 @@ My research interests are in Natural Language Processing (NLP), Machine Learning
 
 I still maintain an interest in physics and I enjoy reading about new findings in fields such as particle physics, gravitational waves and renewable technologies. In addition to this I am interested in novel approaches to outreach, specifically in science and programming.
 
-When I'm not working or researching, I enjoy improving my fluency in foreign languages. I am currently studying German at a higher intermediate level. 
+When I'm not working or researching, I enjoy improving my fluency in foreign languages. I am currently studying German at an advanced level. 
 
