@@ -19,7 +19,7 @@ The first phase of the project is already underway and is actually almost finish
 
 The current progress of the program is shown in the image below.
 
-![The interface of the Twitter Streaming Client](images/election-twitter-streaming-client.png)
+![The interface of the Twitter Streaming Client](http://www.calvinkarpenko.com/images/election-twitter-streaming-client.png)
 
 I have been focusing on getting the program ready for my own data collection, so much of the configuration is based on my own requirements. I do have the intention of releasing the program on Github but I want to improve it before I do so. I am intending to move the configuration into its own window and allow the customisation of the fields that are collected by the filter. But as a first pass it works well and does what I need it to do.
 
