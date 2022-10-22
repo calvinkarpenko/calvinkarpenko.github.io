@@ -1,7 +1,7 @@
 ---
 title: 'A week is a long time in politics'
-date: 2022-19-22
-permalink: /posts/2022/19/a-week-is-a-long-time-in-politics/
+date: 2022-10-22
+permalink: /posts/2022/10/a-week-is-a-long-time-in-politics/
 tags:
   - personal
   - politics
