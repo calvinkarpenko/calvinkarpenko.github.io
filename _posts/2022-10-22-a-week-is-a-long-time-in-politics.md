@@ -11,7 +11,7 @@ As the saying goes, a week is a long time in politics. Assuming that to be true,
 
 It certainly feels that way. Less than a month ago, I wrote a [post](https://www.calvinkarpenko.com/posts/2022/09/progress-update) stating that I felt that the risk of a general election had subsided with the appointment of Liz Truss, and that I was going to take a bit more time to work on my general election project. That was before the mini-budget and the resulting fallout from that. Two weeks ago I decided that the fall in the polls was so disastrous (Some polls indicating a 35% lead for Labour!) that it wouldn't be long before the Conservative Party would remove Truss, causing some instability and increasing the risk of a general election, so I began working on the project again. 
 
-I'm glad I did as on Thursday, Truss resigned. I don't think it was a big surprise to anyone that she resigned as she was clearly causing damage to the Conservative Party's electoral prospect. As it happens, when she resigned I was at my graduation ceremony for my masters degree (delayed due to Covid) and had been discussing my project plans with others. 
+I'm glad I did as on Thursday, Truss resigned. I don't think it was a big surprise to anyone that she resigned as she was clearly causing damage to the Conservative Party's electoral prospects. As it happens, when she resigned I was at my graduation ceremony for my masters degree (delayed due to Covid) and had been discussing my project plans with others. 
 
 So what is the project I'm working on? Essentially it's the natural extension of my masters thesis, essentially applying the methodology of my thesis to another election, namely the next UK General Election. 
 
