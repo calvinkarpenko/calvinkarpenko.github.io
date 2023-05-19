@@ -5,6 +5,10 @@ excerpt: "A project to create a dataset of tweet IDs that cover the next UK Gene
 collection: project
 ---
 
+## Indefinitely Paused
+
+Please read [my blog post](twitter-pausing-my-elections-project) to find out why the project is indefinitely being paused.
+
 ## Aims and Motivation
 
 The aim of this project is primarily to create a dataset of tweets relating to the next UK General Election, whenever that may be. This is a dataset that can then be used by other researchers (as well as myself) for research into disinformation, bots, or used for election prediction modelling.
