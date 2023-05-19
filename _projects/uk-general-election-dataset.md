@@ -7,7 +7,7 @@ collection: project
 
 ## Indefinitely Paused
 
-Please read [my blog post](twitter-pausing-my-elections-project) to find out why the project is indefinitely being paused.
+Please read [my blog post](https://www.calvinkarpenko.com/posts/2023/05/twitter-pausing-my-elections-project/) to find out why the project is indefinitely being paused.
 
 ## Aims and Motivation
 

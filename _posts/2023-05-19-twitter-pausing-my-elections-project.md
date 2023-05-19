@@ -1,10 +1,9 @@
 ---
-title: 'Twitter and why I'm pausing my Elections Project.'
+title: 'Twitter and why I\'m pausing my Elections Project.'
 date: 2023-05-19
 permalink: /posts/2023/05/twitter-pausing-my-elections-project/
 tags:
   - personal
-  - projects
 ---
 
 The Twitter API used to be a really good API, allowing free access within certain limits. For most developers this was a fantastic resource, which is why the vast majority of academic literature has primarily used Twitter posts when conducting work on social media analysis. The API is really easy to use and most of all, it's free to use, with additional privileges being given to those who apply for it. I personally had elevated access to Twitter's API and as such had better rate limits than standard users. Sadly this is no more.
