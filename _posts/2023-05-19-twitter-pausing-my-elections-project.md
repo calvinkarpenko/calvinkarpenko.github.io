@@ -1,5 +1,5 @@
 ---
-title: 'Twitter and why I\'m pausing my Elections Project.'
+title: 'Twitter and why I''m pausing my Elections Project.'
 date: 2023-05-19
 permalink: /posts/2023/05/twitter-pausing-my-elections-project/
 tags:
